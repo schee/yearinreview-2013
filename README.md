@@ -8,6 +8,7 @@ yearinreview-2013 (open data, open development)
 - 拜訪 * n
 - 演講/座談 * 49+
 - 活動辦理 * 17+
+- 法人化組織（的路上）* 2
 
 寫序
 - 《Big Data巨量資料的衝擊》經濟新潮社
@@ -101,3 +102,7 @@ yearinreview-2013 (open data, open development)
 - #地球日開放發展工作坊
 - Open Data Day 2013
 - CfT 2013 開年聚會
+
+法人化組織（的路上）
+- Code for Tomorrow Foundation Initiative
+- OKFN Taiwan
