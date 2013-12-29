@@ -1,7 +1,7 @@
 yearinreview-2013 (open data, open development)
 =================
 
-全部和 open data 有關，只列出非營利部分。總結：
+全部和 open data, open development 有關，只列出非營利部分。有不少可能都忘了，小結：
 - 媒體採訪 * 5（拒絕 n 次，pass n 次）
 - 書序 * 2
 - 來訪/邀訪 * n
