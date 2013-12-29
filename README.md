@@ -32,6 +32,7 @@ yearinreview-2013 (open data, open development)
 - 工研院 * n
 - 主計總處
 - ISOC Taipei
+- 行政院政務委員
 
 演講/座談
 - 健康資料加值應用模式研究之個人資料保護座談會
