@@ -6,7 +6,7 @@ yearinreview-2013 (open data, open development)
 - 書序 * 2
 - 來訪/邀訪 * n
 - 拜訪 * n
-- 演講/座談 * 49+
+- 演講/座談 * 49+（pass n 次）
 - 活動辦理 * 17+
 - 法人化組織（的路上）* 2
 
