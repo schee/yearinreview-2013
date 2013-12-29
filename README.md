@@ -31,6 +31,7 @@ yearinreview-2013 (open data, open development)
 - Tableau 代理
 - 工研院 * n
 - 主計總處
+- ISOC Taipei
 
 演講/座談
 - 健康資料加值應用模式研究之個人資料保護座談會
