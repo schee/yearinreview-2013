@@ -106,3 +106,7 @@ yearinreview-2013 (open data, open development)
 法人化組織（的路上）
 - Code for Tomorrow Foundation Initiative
 - OKFN Taiwan
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/schee/yearinreview-2013/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
